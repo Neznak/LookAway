@@ -2,7 +2,8 @@
 
 A widget to remind you to look away from your screen.
 
-![screenshot](./github/screenshot.png)
+<img src="./github/screenshot.png" width="300">
+<img src="./github/screenshot2.png" width="600">
 
 ### Installation
 
