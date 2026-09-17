@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "ggsce3qt@anonaddy.com",
+                "Name": "Neznak"
+            }
+        ],
+        "Category": "Accessibility",
+        "Description": "A widget to remind you to look away from your screen.",
+        "Icon": "redeyes-symbolic",
+        "Id": "com.neznak.LookAway",
+        "Name": "LookAway",
+        "Version": "1",
+        "Website": "https://github.com/Neznak/LookAway",
+        "BugReportUrl": "https://github.com/Neznak/LookAway/issues"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "KPackageStructure": "Plasma/Applet"
+}
